@@ -4,7 +4,8 @@
 
 - 📖 Estou estudando JavaScript e Node.js.
 - 🤔 Procuro por pessoas que estão disposta a estudar em conjunto.
-- 💬 Sou iniciante em programação e estudante da Blue EdTech
+- 💬 Sou iniciante em programação e estudante da Blue EdTech.
+- 📚 Sempre praticando e aprendendo coisas novas a cada dia.
 - 📧 Contatos: www.linkedin.com/in/pedro-augusto-silva-de-oliveira; pedroaolive@gmail.com
 - 😄 Pronomes: ele/dele.
 
