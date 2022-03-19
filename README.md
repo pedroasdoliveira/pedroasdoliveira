@@ -1,7 +1,5 @@
 ### Olá! Me chamo Pedro Augusto S. de Oliveira. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroasdoliveira&color=blue" alt="Profile views" /> </p>
-
 - 📖 Estou estudando JavaScript e Node.js.
 - 🤔 Procuro por pessoas que estão disposta a estudar em conjunto.
 - 💬 Sou iniciante em programação e estudante da Blue EdTech.
