@@ -3,7 +3,7 @@
 - 🤔 Estou sempre me desafiando, aprendendo e pesquisando.
 - 💬 Estudante da Blue EdTech.
 - 📚 Codando e pesquisando todos os dias.
-- 📧 Contatos: www.linkedin.com/in/pedro-augusto-silva-de-oliveira; pedroaolive@gmail.com
+- 📧 Contatos: www.linkedin.com/in/pedro-augusto-silva-de-oliveira;
 - 😄 Pronomes: ele/dele.
 - 🎯 Sempre focado em meus objetivos.
 - 📓 Estudando React e Nest.js
