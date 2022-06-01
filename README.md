@@ -1,10 +1,12 @@
 # Olá! Me chamo Pedro Augusto S. de Oliveira. 👋
 
-- 🤔 Procuro por pessoas que estão disposta a estudar em conjunto.
+- 🤔 Estou sempre me desafiando, aprendendo e pesquisando.
 - 💬 Estudante da Blue EdTech.
-- 📚 Sempre praticando e aprendendo coisas novas a cada dia.
+- 📚 Codando e pesquisando todos os dias.
 - 📧 Contatos: www.linkedin.com/in/pedro-augusto-silva-de-oliveira; pedroaolive@gmail.com
 - 😄 Pronomes: ele/dele.
+- 🎯 Sempre focado em meus objetivos.
+- 📓 Estudando React e Nest.js
 
 <div align="center">
   <a href="https://github.com/pedroasdoliveira">
