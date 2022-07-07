@@ -6,7 +6,8 @@
 - 📧 Contatos: pedroaolive@gmail.com;
 - 😄 Pronomes: ele/dele.
 - 🎯 Sempre focado em meus objetivos.
-- 📓 Estudando React, Styled Components e Nest.js
+- 📓 Estudando sobre Front-end: React, Styled-Components e Next.js
+- 📙 Estudando sobre Back-end: Express, Nest.js e Adonis.js
 
 <div align="center">
   <a href="https://github.com/pedroasdoliveira">
