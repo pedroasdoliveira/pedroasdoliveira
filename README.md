@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Oliveira</h1>
 <h3 align="center">FullStack developer with JavaScript and Node with a passion for technology.</h3>
 
-- 🌱 I’m currently learning **React, Redux, Nextjs, Nest.js, Adonis.js, MySQL and GraphQL**
+- 🌱 I’m currently learning **React, Redux, Nextjs and Nest.js**
 
 - 📫 How to reach me **pedroaolive@gmail.com**
 
