@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pedroaolive@gmail.com**
 
-- 🏁 Start a Bootcamp with Blue EdTech
+- 🏁 Bootcamp with Petlove
 
 <div align="center">
   <a href="https://github.com/pedroasdoliveira">
