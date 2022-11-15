@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **pedroaolive@gmail.com**
 
-- 🏁 Bootcamp with Petlove
-
 <div align="center">
   <a href="https://github.com/pedroasdoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroasdoliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
