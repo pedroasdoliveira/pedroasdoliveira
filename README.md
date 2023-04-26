@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Oliveira</h1>
 <h3 align="center">FullStack developer with JavaScript with a passion for technology.</h3>
 
-- 🌱 I’m currently learning **React, Next.js, React Native and Java**
+- 🌱 I’m currently learning **Next.js, React Native, Laravel and Docker**
 
 - 📫 How to reach me **pedroaolive@gmail.com**
 
